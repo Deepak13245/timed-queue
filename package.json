@@ -1,0 +1,24 @@
+{
+  "name": "TimedQueue",
+  "version": "1.0.0",
+  "description": "Run set of functions in a queue with some delay",
+  "main": "index.js",
+  "author": "Deepak Kumar T P",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.0.6",
+    "@types/mocha": "^2.2.44",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "ts-node": "^3.3.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-merge": "^0.1.1",
+    "gulp-minify": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  }
+}
