@@ -1,5 +1,5 @@
 {
-  "name": "TimedQueue",
+  "name": "timed-queue-js",
   "version": "1.0.0",
   "description": "Run set of functions in a queue with some delay",
   "main": "index.js",
