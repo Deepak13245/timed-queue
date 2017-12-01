@@ -1,4 +1,6 @@
-class TimedQueue {
+import { TimedJob } from "./TimedJob";
+
+export class TimedQueue {
     private queue: Array<TimedJob> = [];
     private tHandle: any = null;
     private done: boolean = true;

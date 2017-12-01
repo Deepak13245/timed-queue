@@ -1,4 +1,5 @@
-declare class TimedQueue {
+import { TimedJob } from "./TimedJob";
+export declare class TimedQueue {
     private queue;
     private tHandle;
     private done;

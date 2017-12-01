@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var TimedQueue = /** @class */ (function () {
     function TimedQueue() {
         this.queue = [];
@@ -68,5 +69,6 @@ var TimedQueue = /** @class */ (function () {
     };
     return TimedQueue;
 }());
+exports.TimedQueue = TimedQueue;
 
 //# sourceMappingURL=TimedQueue.js.map
