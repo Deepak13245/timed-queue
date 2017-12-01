@@ -1,6 +1,6 @@
 {
   "name": "timed-queue-js",
-  "version": "1.0.0",
+  "version": "1.0.21",
   "description": "Run set of functions in a queue with some delay",
   "main": "index.js",
   "author": "Deepak Kumar T P",
@@ -12,6 +12,10 @@
     "mocha": "^4.0.1",
     "ts-node": "^3.3.0"
   },
+  "files":[
+    "src",
+    "dist"
+  ],
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-merge": "^0.1.1",

@@ -5,7 +5,7 @@ Create a queue of functions to be executed in queue
 Example : 
 ```typescript
     //Import TimedQueue
-    import { TimedQueue } from 'TimedQueue';
+    import { TimedQueue } from 'timed-queue-js';
     //Create new instance
     let queue = new TimedQueue();
     queue.add(() => {
